@@ -1,0 +1,3 @@
+init.php - ortak ayarların yapıldığı ve tüm sayfalarda ilk çalışan kodlar
+init_ziyaretci.php - siteyi ziyaret eden tüm ziyaretçilerin göreceği sayfaların en başında çalışan php kodları
+init_admin.php - site yöneticisine ait sayfaların en başında çalışan php kodları

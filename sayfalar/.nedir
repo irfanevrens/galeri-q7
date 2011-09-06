@@ -1,0 +1,4 @@
+burada smarty tarafından işlenen saf html kodları bulunmaktadır.
+saf html'den kasıt, php kodları olmayan sadece html tagları ile 
+smarty ye özel kodların bulunmasıdır.
+detaylı bilgi: http://www.smarty.net/docs/en/variable.template.dir.tpl

@@ -1,0 +1,10 @@
+galeriler
+---------
+ - id
+ - adi
+ 
+resimler
+--------
+ - id
+ - baslik
+ - galeri_id
