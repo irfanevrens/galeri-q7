@@ -1,0 +1,1 @@
+bu proje php ve mysql kullanılarak yapılan bir resim galerisi projesidir. galeri ve içinde resimlerin yer aldığı basit ve kullanışlı bir proje yapmayı hedefledim. zaman oldukça geri bildirimler ile geliştirmeye devam edeceğim
